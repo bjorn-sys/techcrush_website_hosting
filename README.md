@@ -63,3 +63,5 @@ Click Save
 
 This makes all files in the bucket publicly readable.
 
+copied the url and it worked
+
